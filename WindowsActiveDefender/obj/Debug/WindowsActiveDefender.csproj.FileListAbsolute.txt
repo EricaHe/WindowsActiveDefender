@@ -1,0 +1,2 @@
+E:\workspace\WindowsActiveDefender\WindowsActiveDefence\bin\Debug\WindowsActiveDefence.exe.config
+E:\workspace\WindowsActiveDefender\WindowsActiveDefender\bin\Debug\WindowsActiveDefence.exe.config
